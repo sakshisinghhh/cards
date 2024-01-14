@@ -1,0 +1,47 @@
+{
+    "recipes":[
+        {
+            "id":"1",
+            "title":"Biryani",
+            "image":"Biryani.jpg",
+            "time":45,
+            "description":"Biryani requires high-quality ingredients such as aged basmati rice, ghee, curd, saffron, powdered and whole spices, vegetables or meat etc"
+        },
+        {
+            "id":"2",
+            "title":"Maggi",
+            "image":"maggi.jpg",
+            "time":5,
+            "description":"Maggi noodles are dried noodles fused with oil, and sold with a packet of flavorings."
+        },
+        {
+            "id":"3",
+            "title":"Vadapao",
+            "image":"vadapav.jpg",
+            "time":30,
+            "description":"Pav Bhaji is an Indian fast food consisting of a thick spicy vegetable gravy served with soft dinner rolls"
+        },
+        {
+            "id":"4",
+            "title":"Aloo parathe",
+            "image":"alooparatha.jpg",
+            "time":"25",
+            "description":"Aloo Paratha are Indian Breakfast flatbreads made with whole wheat flour, boiled potatoes, spices & herbs"
+        },
+        {
+            "id":"5",
+            "title":"Pizza",
+            "image":"pizza.jpg",
+            "time":35,
+            "description":"is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients"
+        },
+        {
+            "id":"6",
+            "title":"Masala Dosa",
+            "image":"Masaladosa.jpg",
+            "time":20,
+            "description":"A dosa is South Indian, fermented crepe made from rice batter and black lentils. "
+        }
+    
+    ]
+}
